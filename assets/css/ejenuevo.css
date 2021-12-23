@@ -1,0 +1,62 @@
+body {
+    background-color: lightseagreen;
+}
+
+
+.citas{
+    color: white;
+    
+    text-shadow: 1px 1px 2px black;
+}
+
+.caja {
+
+    width: 600px;
+    height: 5px;
+    margin: 20px;
+    margin-bottom: 20px;
+    font-size: 11px;
+    margin: 20px;
+    padding: 20px; 
+    
+}
+
+
+.blanca {
+    width: 600px;
+    height: 5px;
+    margin: 20px;
+    margin-left: 400px;
+    background-color: white;
+    border: 5px solid black ;
+    border-radius: 20px;
+    margin-right: 200px;
+   
+}
+
+.roja {
+    color: lightyellow;
+    background-color: red;
+    border: 5px solid brown ;
+
+    border-top-left-radius: 20px;
+    border-radius: 20px;
+}
+
+.cafe {
+    margin-left: 600px;
+    text-align: center;
+    color: lightyellow;
+    background-color: burlywood;
+    border: 5px solid chocolate ;
+}
+
+
+.azul {
+    margin-left:400px;
+    color: lightyellow;
+    background-color: blue;
+    border: 5px dashed lightskyblue;
+    font-style: italic;
+    border-radius: 10px;
+}

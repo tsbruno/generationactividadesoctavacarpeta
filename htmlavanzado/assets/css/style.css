@@ -1,0 +1,16 @@
+
+
+.formulario {
+    border: 10px solid green;
+
+}
+
+.nom {
+    border: 2px solid green;
+    border-radius: 2px;
+}
+
+
+#passsword {
+    border: 2px dashed blue
+}

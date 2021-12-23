@@ -1,0 +1,53 @@
+body {
+    
+    
+    
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-linea-elegante-hexagonal-patron_1017-19742.jpg?size=626&ext=jpg);
+
+  /*   background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+.title {
+
+    font-family: 'Franklin Gothic Medium';
+}
+
+.sub {
+
+    font-family:  giaTimes;
+
+}
+
+.caja {
+
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+    margin-bottom: 20px;
+    font-size: 50px;
+    margin: 20px;
+    padding: 20px; 
+    border-radius: 50px;
+    
+}
+
+.roja {
+    /* background-color:brown ; */
+    border: 10px solid red;
+    font-size: 100px;
+
+}
+
+.verde {
+   /*  background-color: darkgreen; */
+    border: 10px dotted green;
+
+}
+
+.azul {
+    /* background-color: cornflowerblue; */
+    border: 5px dashed blue;
+}
+
+
